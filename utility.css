@@ -1,0 +1,94 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.invert{
+    filter: invert();
+}
+
+.bg-grey{
+    background-color: #121212;
+    color: white;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+
+.m-1{
+    margin: 5px;
+}
+
+.p-1{
+    padding: 10px;
+}
+
+/* Target WebKit-based browsers (Chrome, Safari) */
+/* Customize scrollbar track */
+::-webkit-scrollbar {
+    width: 12px; /* Width of the scrollbar */
+}
+
+/* Customize scrollbar handle */
+::-webkit-scrollbar-thumb {
+    background-color: #333; /* Color of the scrollbar handle */
+    border-radius: 6px; /* Rounded corners of the scrollbar handle */
+    border: 3px solid #1a1a1a; /* Border around the scrollbar handle */
+}
+
+/* Customize scrollbar track */
+::-webkit-scrollbar-track {
+    background: #1a1a1a; /* Color of the scrollbar track */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+<div class="footer">
+                <div data-testid = "left-sidebar-legal-links">
+                    <div>
+                        <div><a href="https://www.spotify.com/jp/legal/"><span>Legal</span></a></div>
+                        <div><a href="https://www.spotify.com/jp/privacy/"><span>Privacy Center</span></a></div>
+                        <div><a href="https://www.spotify.com/jp/privacy-policy/"><span>Privacy Policy</span></a></div>
+                        <div><a href="https://www.spotify.com/jp/cookies-policy/"><span>Cookies</span></a></div>
+                        <div><a href="https://www.spotify.com/jp/privacy-policy/#s3"><span>About Ads</span></a></div>
+                        <div><a href="https://www.spotify.com/jp/accessibility/"><span>Accessibility</span></a></div>
+                    </div>
+                    <a href="https://spotify.com/legal/cookies-policy/" target="_blank" rel="noopener"><span>Cookies</span></a>
+                </div>
+            </div> */
